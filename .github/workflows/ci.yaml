@@ -15,5 +15,5 @@ jobs:
       run: yarn
     - name: Check formatting with Prettier
       run: yarn format:check
-      name: formatting with Prettier
+    - name: formatting with Prettier
       run: yarn format
